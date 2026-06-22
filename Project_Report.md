@@ -2,7 +2,7 @@
 ### BYOP Capstone Project Report
 
 **Date**: March 29, 2026  
-**Author**: Hardik  
+**Author**: Kanak Sonare  
 **Repo**: [https://github.com/hardik0903/CV_proj.git](https://github.com/hardik0903/CV_proj.git)
 
 ---
